@@ -18,9 +18,6 @@
   <a href="https://github.com/agnelfranciso">
     <img src="https://img.shields.io/badge/Current_Profile-agnelfranciso-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Current GitHub" />
   </a>
-  <a href="https://github.com/agnelfrancis">
-    <img src="https://img.shields.io/badge/Archive-agnelfrancis-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Archive GitHub" />
-  </a>
 </p>
 
 </div>
@@ -40,10 +37,17 @@ I am a passionate web developer and student focused on building modern, practica
 
 <br>
 
+## 🎯 Currently Focusing On
+* **Data Structures & Algorithms:** Sharpening problem-solving skills for complex systems.
+* **Cybersecurity:** Deep diving into secure networking, ethical hacking, and system vulnerabilities.
+* **AI Integration:** Figuring out the best ways to integrate offline Large Language Models (LLMs) into consumer applications.
+
+<br>
+
 ## 🎓 Education
 
 * **Jyothi Engineering College (2026-2029)** — Computer Science Engineering (Cybersecurity)
-* **Sarvodayam VHSS Aryampadam (2024-2025)** — Junior Software Developer
+* **Sarvodayam VHSS Aryampadam (2024-2025)** — B.S Computer Engineering Technology
 
 <br>
 
@@ -99,9 +103,25 @@ graph LR
   <img src="https://github-readme-stats.vercel.app/api?username=agnelfranciso&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&include_all_commits=true&theme=tokyonight" alt="Agnel's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnelfranciso&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF&langs_count=6&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=agnelfranciso&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
 
 <br>
 
+## 📬 Let's Connect
+
+I'm always open to collaborating on open-source projects, discussing cybersecurity, or just geeking out about tech.
+
+<div align="left">
+  <a href="mailto:agnelfrancis2007@gmail.com">
+    <img src="https://img.shields.io/badge/Shoot_me_an_Email-agnelfrancis2007@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</div>
+
+<br>
+<hr>
 <div align="center">
   <i>Built with curiosity, caffeine, and way too many side projects.</i>
 </div>
