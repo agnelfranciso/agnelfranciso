@@ -1,11 +1,208 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8B5CF6&height=220&section=header&text=Agnel%20Francis%20Olakkengil&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+# AGNEL FRANCIS
+
+### Software Developer · Cybersecurity · Open Source
+
+**Building practical software for real-world problems.**
 
 <br>
 
 <a href="https://github.com/agnelfranciso">
-  <img src="https://komarev.com/ghpvc/?username=agnelfranciso&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Current-agnelfranciso-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/agnelfrancis">
+  <img src="https://img.shields.io/badge/Archive-agnelfrancis-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Cybersecurity+Student;Junior+Software+Developer;Building+privacy-first+software;Exploring+systems%2C+security+%26+AI;Turning+ideas+into+working+products" />
+
+</div>
+
+---
+
+## `01` — ABOUT
+
+I'm **Agnel Francis Olakkengil**, a Computer Science & Cybersecurity student and junior software developer.
+
+I enjoy taking an idea from **"this would be useful"** to an actual working project.
+
+My interests sit around:
+
+* 🔐 Cybersecurity & privacy
+* 📱 Android development
+* 🐍 Python development
+* 🌐 Web technologies
+* 🧠 AI-assisted software
+* 🗃️ Data & systems
+* 🌍 Open-source software
+* 🛠️ Developer tools
+
+I particularly like software that is **simple, useful, privacy-conscious and doesn't need a giant stack to get the job done.**
+
+---
+
+## `02` — WHAT I BUILD
+
+<div align="center">
+
+### 🚇 KOCHI TRANSIT GO
+
+**Offline-first Kochi Metro companion**
+
+A lightweight Android application designed around one simple idea:
+
+> **Transit information should still be useful when the internet isn't.**
+
+`Android` `Kotlin` `OpenStreetMap` `Offline-first`
+
+<br>
+
+### 🌦️ AERISIQ
+
+**Meteorological Intelligence & Disaster Management**
+
+A privacy-focused weather and disaster intelligence project combining weather data, public alerts and local risk information into a more useful experience.
+
+`Android` `Open-Meteo` `NDMA Sachet` `AI` `Privacy`
+
+<br>
+
+### 📁 SEMFOLDER
+
+**A local-first academic file organizer**
+
+A simple approach to organizing semester material without turning a basic file-management problem into a cloud platform.
+
+`HTML` `CSS` `JavaScript` `Local Storage`
+
+</div>
+
+---
+
+## `03` — THE WAY I BUILD
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### BUILD
+
+Start with a real problem.
+
+Don't build something just because the technology is interesting.
+
+</td>
+
+<td width="33%" align="center">
+
+### SIMPLIFY
+
+Remove unnecessary complexity.
+
+Less infrastructure.
+Less friction.
+Less noise.
+
+</td>
+
+<td width="33%" align="center">
+
+### SHIP
+
+A working project teaches more than an unfinished perfect idea.
+
+Build → test → improve.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — TECH
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,html,css,mysql,sqlite,git,github,androidstudio,vscode,linux&perline=7&theme=dark" />
+
+<br><br>
+
+**Currently exploring**
+
+`Cybersecurity` · `DSA` · `Networking` · `Android` · `AI` · `Systems`
+
+</div>
+
+---
+
+## `05` — PROJECT MINDSET
+
+```text
+                    ┌───────────────────┐
+                    │    REAL PROBLEM   │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │       IDEA        │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │      BUILD        │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │       TEST        │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │     IMPROVE       │
+                    └─────────┬─────────┘
+                              │
+                              ▼
+                    ┌───────────────────┐
+                    │      SHIP 🚀      │
+                    └───────────────────┘
+```
+
+I care less about having a huge list of repositories and more about making each project **better than the version before it**.
+
+---
+
+## `06` — FROM THEN → NOW
+
+My GitHub history spans two accounts.
+
+### `agnelfrancis`
+
+My earlier GitHub presence, where some of my first experiments, projects and learning work live.
+
+### `agnelfranciso`
+
+My current development identity, where I'm focusing more heavily on software development, cybersecurity, open source and product-oriented projects.
+
+The usernames changed.
+
+**The journey didn't.**
+
+---
+
+## `07` — GITHUB
+
+<div align="center">
+
+<a href="https://github.com/agnelfranciso">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=agnelfranciso&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/agnelfrancis">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=agnelfrancis&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&include_all_commits=true" />
 </a>
 
 </div>
@@ -14,184 +211,43 @@
 
 <div align="center">
 
-### `building ideas → writing code → shipping things`
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;Computer+Science+%26+Cybersecurity+Student;Building+useful+software+with+Python+%26+Android;Exploring+Cybersecurity%2C+Open+Source+%26+AI;Turning+random+ideas+into+real+projects" alt="Typing SVG"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnelfranciso&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF&langs_count=8" />
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Agnel
-
-I'm a **Computer Science & Cybersecurity student** and junior software developer who enjoys turning ideas into practical software.
-
-I like building things that are **useful, lightweight, privacy-conscious, and actually solve a problem** — from offline-first Android apps to developer tools and data-driven projects.
+## `08` — CURRENTLY
 
 ```text
-Currently
-├── 🎓 Studying Computer Science & Cybersecurity
-├── 💻 Building software with Python, Android & web technologies
-├── 🔐 Exploring cybersecurity & privacy-first development
-├── 🧠 Learning data structures, systems & software engineering
-└── 🚀 Turning side-project ideas into real products
+🎓  Studying Computer Science & Cybersecurity
+
+💻  Building software projects
+
+🔐  Learning cybersecurity & networking
+
+📱  Exploring Android development
+
+🧠  Experimenting with AI
+
+🌍  Contributing to open source
+
+🚀  Turning side-projects into real products
 ```
 
-> I don't just want to learn how software works.
-> **I want to build software worth using.**
-
 ---
 
-## 🚀 Things I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚇 Kochi Transit Go
-
-An **offline-first Kochi Metro companion** focused on simple route and fare information without unnecessary cloud dependency.
-
-**Highlights**
-
-* 🗺️ Offline metro routes
-* 💰 Fare information
-* 🚉 Station information
-* 📱 Android-first experience
-* 🔒 Privacy-friendly architecture
-
-**Stack:** Android · Kotlin · OpenStreetMap
-
-</td>
-
-<td width="50%">
-
-### 🌦️ AerisIQ
-
-A privacy-focused **weather & disaster intelligence platform** designed around local risk awareness.
-
-**Highlights**
-
-* 🌧️ Weather intelligence
-* 🚨 Disaster alerts
-* ⚡ Local risk information
-* 🧠 AI-assisted analysis
-* 🔒 No user-location tracking
-
-**Stack:** Android · Python · Open-Meteo · NDMA Sachet
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📁 SemFolder
-
-A lightweight **local-first semester file organizer** designed to keep academic material structured without forcing everything into a cloud service.
-
-**Focus**
-
-* 📚 Semester organization
-* 📂 Local storage
-* ⚡ Fast access
-* 🧩 Simple workflow
-
-**Stack:** HTML · CSS · JavaScript
-
-</td>
-
-<td width="50%">
-
-### 🛡️ Cybersecurity Projects
-
-Exploring practical cybersecurity concepts through projects involving:
-
-* 🌐 Networking
-* 🔐 Secure application design
-* 🧪 Security experimentation
-* 🖥️ Systems
-* 📊 Data & threat analysis
-
-**Goal:** understand security by actually building things.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,js,html,css,mysql,c&theme=dark" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,linux,figma,sqlite,firebase&theme=dark" />
-</p>
-
-### Currently Learning
-
-<p>
-
-`Cybersecurity` · `DSA` · `Networking` · `Android Development` · `System Design` · `AI`
-
-</p>
-
----
-
-## 🧠 My Development Philosophy
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### ⚡ Simple
-
-Build the simplest thing that solves the problem.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔒 Private
-
-Collect less. Depend less. Keep users in control.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩 Practical
-
-Projects should solve actual problems, not just demonstrate syntax.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀 Experimental
-
-Try ideas. Break things. Learn. Build again.
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub
+## `09` — CONNECT
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=agnelfranciso&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=6C63FF&text_color=9CA3AF&include_all_commits=true&count_private=true" />
+<a href="https://github.com/agnelfranciso">
+  <img src="https://img.shields.io/badge/GitHub-agnelfranciso-18181B?style=for-the-badge&logo=github" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnelfranciso&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF&langs_count=8" />
+<a href="https://github.com/agnelfrancis">
+  <img src="https://img.shields.io/badge/Old%20GitHub-agnelfrancis-18181B?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
@@ -199,51 +255,10 @@ Try ideas. Break things. Learn. Build again.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agnelfranciso&hide_border=true&background=00000000&ring=8B5CF6&fire=6C63FF&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+### `ideas are cheap. building them isn't.`
+
+<br>
+
+<sub>Built with curiosity, caffeine and way too many side projects.</sub>
 
 </div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agnelfranciso/agnelfranciso/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agnelfranciso/agnelfranciso/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/agnelfranciso/agnelfranciso/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 🎯 What I'm Working Towards
-
-```text
-Software Development
-        │
-        ├── Android & Desktop Applications
-        │
-        ├── Cybersecurity
-        │
-        ├── Privacy-first Software
-        │
-        ├── Open Source
-        │
-        └── AI-powered Developer Tools
-                    │
-                    ▼
-             Build useful things.
-```
-
-I'm especially interested in projects where **software engineering, cybersecurity, data, and real-world problems overlap**.
-
----
-
-## 🌐 Find Me
-
-<div align="center">
-
-<a h
