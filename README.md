@@ -43,7 +43,7 @@ I am a passionate web developer and student focused on building modern, practica
 ## 🎓 Education
 
 * **Jyothi Engineering College (2026-2029)** — Computer Science Engineering (Cybersecurity)
-* **Sarvodayam VHSS Aryampadam (2024-2025)** — B.S Computer Engineering Technology
+* **Sarvodayam VHSS Aryampadam (2024-2025)** — Junior Software Developer
 
 <br>
 
