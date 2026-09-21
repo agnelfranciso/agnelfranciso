@@ -1,19 +1,22 @@
-mak<div align="center">
+<div align="center">
 
 # ⚡ Agnel Francis Olakkengil
-**Computer Science & Cybersecurity Student • Junior Software Developer**
+**Web Developer @oslohaz_e • Computer Science & Cybersecurity Student**
 
 <br>
 
 <p align="center">
   <a href="https://github.com/agnelfranciso">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+privacy-first+software;Exploring+systems,+security+%26+AI;Turning+ideas+into+working+products;Ideas+are+cheap.+Building+them+isn't." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+privacy-first+software;Web+Development+%26+Cybersecurity;Turning+ideas+into+working+products;Ideas+are+cheap.+Building+them+isn't." alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <a href="mailto:agnelfrancis2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-agnelfrancis2007@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/agnelfranciso">
-    <img src="https://img.shields.io/badge/Current_Profile-agnelfranciso-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Current GitHub" />
+    <img src="https://img.shields.io/badge/Current_Profile-agnelfranciso-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Current GitHub" />
   </a>
   <a href="https://github.com/agnelfrancis">
     <img src="https://img.shields.io/badge/Archive-agnelfrancis-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Archive GitHub" />
@@ -28,7 +31,7 @@ mak<div align="center">
 
 ## 👨‍💻 About Me
 
-I enjoy taking an idea from **"this would be useful"** to an actual working project. I prefer software that is simple, useful, privacy-conscious, and doesn't require a giant stack to get the job done.
+I am a passionate web developer and student focused on building modern, practical digital solutions. I enjoy taking an idea from **"this would be useful"** to an actual working project, preferring software that is simple, useful, and privacy-conscious.
 
 * 🔐 Exploring **Cybersecurity, Privacy, & Networking**
 * 📱 Building **Android & Web Applications**
@@ -37,15 +40,37 @@ I enjoy taking an idea from **"this would be useful"** to an actual working proj
 
 <br>
 
+## 🎓 Education
+
+* **Jyothi Engineering College (2026-2029)** — Computer Science Engineering (Cybersecurity)
+* **Sarvodayam VHSS Aryampadam (2024-2025)** — B.S Computer Engineering Technology
+
+<br>
+
+## 🚀 Featured Projects
+
+### [AerisIQ](https://github.com/agnelfranciso) *(Jan 2021 - Present)*
+A Free and Open Source (FOSS), privacy-first disaster risk intelligence utility for Android. 
+* Queries public warning feeds and parses raw disaster bulletins.
+* Combines datasets with live local weather telemetry.
+* Processes data securely using an offline Large Language Model (LLM) in the device's sandbox.
+
+### [Bussiler](https://github.com/agnelfranciso) *(Apr 2018 - Jan 2021)*
+A lightweight, user-friendly interface for passengers to check transit schedules instantly.
+* Digitized manual timetables to improve travel planning.
+* Reduced commuter waiting times through instant schedule access.
+
+<br>
+
 ## 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,html,css,mysql,sqlite,git,github,androidstudio,vscode,linux&perline=14&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,java,kotlin,c,mysql,sqlite,git,github,androidstudio,vscode,linux&perline=15&theme=dark" alt="Skills" />
 </div>
 
 <br>
 
-## 🚀 My Philosophy
+## 🧠 My Philosophy
 
 ```mermaid
 graph LR
