@@ -47,7 +47,7 @@ I am a passionate web developer and student focused on building modern, practica
 ## 🎓 Education
 
 * **Jyothi Engineering College (2026-2029)** — Computer Science Engineering (Cybersecurity)
-* **Sarvodayam VHSS Aryampadam (2024-2025)** — B.S Computer Engineering Technology
+* **Sarvodayam VHSS Aryampadam (2024-2025)** — Junior Software Developer
 
 <br>
 
@@ -100,12 +100,15 @@ graph LR
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agnelfranciso&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&include_all_commits=true&theme=tokyonight" alt="Agnel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnelfranciso&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF&langs_count=6&theme=tokyonight" alt="Top Languages" width="48%" />
+  <a href="https://github.com/agnelfranciso">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=agnelfranciso&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=9CA3AF&include_all_commits=true" alt="Agnel's GitHub Stats" />
+  </a>
 </div>
+
 <br>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agnelfranciso&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnelfranciso&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=9CA3AF&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
